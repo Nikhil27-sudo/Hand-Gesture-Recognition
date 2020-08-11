@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\NIKHIL\\Desktop\\Mydataset\\TrainedModel\\GestureRecogModel.tfl"
+all_model_checkpoint_paths: "C:\\Users\\NIKHIL\\Desktop\\Mydataset\\TrainedModel\\GestureRecogModel.tfl"
